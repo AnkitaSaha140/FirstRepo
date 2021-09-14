@@ -1,3 +1,2 @@
 ECHO is on.
-I am inside XYZ file.
 
