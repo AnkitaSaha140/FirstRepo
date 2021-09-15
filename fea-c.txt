@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 feacture c created
+=======
+again added a line
+>>>>>>> feacture-c
